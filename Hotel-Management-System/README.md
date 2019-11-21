@@ -1,4 +1,4 @@
-#Atina Hotel
+# Atina Hotel
 
 To use this project in your local machine follow the following steps.
 
