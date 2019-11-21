@@ -9,5 +9,5 @@ Backend is written in PHP.
 Project by- \
 Aman Sharma \
 Aryan Verma \
-Bhavanshu Jain \ 
-Priyanshi Gupta \
+Bhavanshu Jain  \
+Priyanshi Jain  \
