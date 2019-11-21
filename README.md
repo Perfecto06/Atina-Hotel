@@ -7,7 +7,7 @@ And the language used to implement it is PHP,HTML,CSS and JS.
 Backend is written in PHP.
 
 Project by-
-Aman Sharma
-Aryan Verma
-Bhavanshu Jain
-Priyanshi Gupta
+Aman Sharma \n
+Aryan Verma \n
+Bhavanshu Jain  \n
+Priyanshi Gupta \n
