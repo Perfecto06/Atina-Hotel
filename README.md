@@ -6,8 +6,8 @@ The DBMS used is MySQL.
 And the language used to implement it is PHP,HTML,CSS and JS.
 Backend is written in PHP.
 
-Project by-
+Project by- \
 Aman Sharma \
 Aryan Verma \
-Bhavanshu Jain  \ 
+Bhavanshu Jain \ 
 Priyanshi Gupta \
